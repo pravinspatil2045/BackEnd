@@ -6,5 +6,6 @@ public class MainClass {
         System.out.println("Hello World!!!");
         System.out.println("New Hello World!!!");
         System.out.println("Hello World from another branch!!!");
+        System.out.println("Hello World from Master!!!");
     }
 }
